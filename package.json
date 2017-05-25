@@ -1,7 +1,7 @@
 {
-  "name": "minimal-react-starter",
+  "name": "react aria modal demo",
   "version": "0.0.5",
-  "description": "Minimal react starter project",
+  "description": "React-Aria-Modal demo",
   "main": "src/index.js",
   "scripts": {
     "compile": "webpack",
@@ -9,12 +9,11 @@
   },
   "keywords": [
     "react",
-    "webpack",
-    "babel",
-    "minimal",
-    "starter"
+    "aria",
+    "modal",
+    "demo"
   ],
-  "author": "Andrew H Farmer",
+  "author": "Alex Uribe",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -27,6 +26,7 @@
     "babel-preset-react": "^6.24.1",
     "express": "^4.15.2",
     "react": "^15.5.4",
+    "react-aria-modal": "^2.6.0",
     "react-dom": "^15.5.4",
     "webpack": "^2.4.1",
     "webpack-dev-middleware": "^1.10.1"
